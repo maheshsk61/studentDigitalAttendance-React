@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studentDigitalAttendance-React/static/css/main.9ff2dbd0.css",
+    "main.js": "/studentDigitalAttendance-React/static/js/main.e73a175d.js",
+    "index.html": "/studentDigitalAttendance-React/index.html",
+    "main.9ff2dbd0.css.map": "/studentDigitalAttendance-React/static/css/main.9ff2dbd0.css.map",
+    "main.e73a175d.js.map": "/studentDigitalAttendance-React/static/js/main.e73a175d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff2dbd0.css",
+    "static/js/main.e73a175d.js"
+  ]
+}
